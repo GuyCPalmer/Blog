@@ -7,6 +7,7 @@ Nothing fancy, just a simple blog created with sequelize for Node.js. Enter the 
 
 ### Technology 
 Sequelize for Node.js
+MySQL
 
 #### Author
 Guy Palmer
