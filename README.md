@@ -1,4 +1,4 @@
-# Blogging is life!
+# Dear Diary...
 
 ## About
 Nothing fancy, just a simple blog created with sequelize for Node.js. Enter the authors name and start sharing your thoughts! 
